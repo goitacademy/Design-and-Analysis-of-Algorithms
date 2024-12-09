@@ -1,0 +1,25 @@
+.idea/
+#.Ignore files and directories that are specific to my project
+#Ignore python cache
+__pycache__/
+**/__pycache__/
+
+#Ignore local settings
+local_settings.py
+
+#Ignore logs
+logs/
+
+#Ignore database
+db.sqlite3
+
+#Ignore python dependencies
+venv/
+env/
+ENV/
+
+**/*~.*
+**/*.*~
+*.*~
+
+/pytest-*

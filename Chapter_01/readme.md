@@ -1,4 +1,6 @@
-## Список прикладів
+# Список прикладів
+
+## Аналіз алгоритмів. Стратегія «розділяй і володарюй»
 
 1. [`merge_sort.py`](merge_sort.py) - алгоритм Merge Sort
 2. [`quick_sort.py`](/Chapter_01/quick_sort.py) - алгоритм Quick Sort
