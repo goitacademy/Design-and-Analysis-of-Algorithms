@@ -23,7 +23,7 @@ def read_product(product_id: int):
 
 def fetch_product_from_db(product_id: int):
     data = database.get(str(product_id), None)
-    print(data)
+    print(f"Fetching from DB {product_id}")
     return data
 
 
